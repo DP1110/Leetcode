@@ -1,0 +1,25 @@
+class Solution(object):
+    def romanToInt(self, s):
+        # Map each Roman symbol to its value
+        values = {
+            'I': 1,
+            'V': 5,
+            'X': 10,
+            'L': 50,
+            'C': 100,
+            'D': 500,
+            'M': 1000
+        }
+        
+        total = 0
+        n = len(s)
+        
+        for i in range(n):
+            current = values[s[i]]
+            # If next value exists and is larger, this is a subtractive pair
+            if i + 1 < n and current < values[s[i + 1]]:
+                total -= current
+            else:
+                total += current
+        
+        return total
