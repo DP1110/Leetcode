@@ -1,26 +1,16 @@
-1class Solution:
-2    def combinationSum2(self, candidates, target):
-3        candidates.sort()
-4        result = []
-5        
-6        def backtrack(start, current, current_sum):
-7            if current_sum == target:
-8                result.append(current[:])
-9                return
-10            
-11            for i in range(start, len(candidates)):
-12                # Pruning
-13                if current_sum + candidates[i] > target:
-14                    break
-15                
-16                # Skip duplicates at the same level
-17                if i > start and candidates[i] == candidates[i - 1]:
-18                    continue
-19                
-20                current.append(candidates[i])
-21                # i + 1 because each number can be used only once
-22                backtrack(i + 1, current, current_sum + candidates[i])
-23                current.pop()
-24        
-25        backtrack(0, [], 0)
-26        return result
+[10,1,2,7,6,1,5]
+8
+[2,5,2,1,2]
+5
+[2, 2, 2, 2, 3, 6, 7]
+9
+[1, 2, 2, 3, 3, 4, 5, 6, 7, 8, 9, 10]
+ 25
+[1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,3,3,3,3,3,3,3,3,3,3,3,33,3,3,3,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,44,4,4,4,5,5,5,5,5,5,5,5,5,5,5,49,5,5,5,5,6,6,6,6]
+29
+[1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1]
+30
+[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50]
+30
+ [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5]
+ 15
