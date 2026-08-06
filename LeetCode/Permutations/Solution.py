@@ -1,17 +1,19 @@
 1class Solution:
 2    def permute(self, nums):
 3        result = []
-4        n = len(nums)
-5        
-6        def backtrack(start):
-7            if start == n:
-8                result.append(nums[:])
-9                return
-10            
-11            for i in range(start, n):
-12                nums[start], nums[i] = nums[i], nums[start]
-13                backtrack(start + 1)
-14                nums[start], nums[i] = nums[i], nums[start]  # backtrack
-15        
-16        backtrack(0)
-17        return result
+4        
+5        def backtrack(current, visited):
+6            if len(current) == len(nums):
+7                result.append(current[:])
+8                return
+9            
+10            for num in nums:
+11                if num not in visited:
+12                    visited.add(num)
+13                    current.append(num)
+14                    backtrack(current, visited)
+15                    current.pop()
+16                    visited.remove(num)
+17        
+18        backtrack([], set())
+19        return result
