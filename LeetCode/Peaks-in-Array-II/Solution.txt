@@ -1,0 +1,105 @@
+1#include <vector>
+2using namespace std;
+3
+4class Solution {
+5    struct Node {
+6        long long first, last, V;
+7        Node() : first(-1), last(-1), V(0) {}
+8        Node(long long f, long long l, long long v) : first(f), last(l), V(v) {}
+9    };
+10
+11    vector<Node> tree;
+12    vector<int> arr;
+13    int n;
+14
+15    // Merge two nodes based on our derived mathematical formula
+16    Node merge(const Node& a, const Node& b) {
+17        if (a.first == -1) return b;
+18        if (b.first == -1) return a;
+19        Node c;
+20        c.first = a.first;
+21        c.last = b.last;
+22        c.V = a.V + b.V - a.last * b.first;
+23        return c;
+24    }
+25
+26    // Check if an element is a peak (strictly inside bounds)
+27    bool isPeak(int i) {
+28        if (i <= 0 || i >= n - 1) return false;
+29        return arr[i] > arr[i - 1] && arr[i] > arr[i + 1];
+30    }
+31
+32    void build(int node, int l, int r) {
+33        if (l == r) {
+34            if (isPeak(l)) tree[node] = Node(l, l, 1LL * l * l);
+35            else tree[node] = Node();
+36            return;
+37        }
+38        int mid = l + (r - l) / 2;
+39        build(2 * node + 1, l, mid);
+40        build(2 * node + 2, mid + 1, r);
+41        tree[node] = merge(tree[2 * node + 1], tree[2 * node + 2]);
+42    }
+43
+44    void update(int node, int l, int r, int idx) {
+45        if (l == r) {
+46            if (isPeak(idx)) tree[node] = Node(idx, idx, 1LL * idx * idx);
+47            else tree[node] = Node();
+48            return;
+49        }
+50        int mid = l + (r - l) / 2;
+51        if (idx <= mid) update(2 * node + 1, l, mid, idx);
+52        else update(2 * node + 2, mid + 1, r, idx);
+53        tree[node] = merge(tree[2 * node + 1], tree[2 * node + 2]);
+54    }
+55
+56    Node query(int node, int l, int r, int ql, int qr) {
+57        if (ql > r || qr < l) return Node();
+58        if (ql <= l && r <= qr) return tree[node];
+59        int mid = l + (r - l) / 2;
+60        return merge(query(2 * node + 1, l, mid, ql, qr),
+61                     query(2 * node + 2, mid + 1, r, ql, qr));
+62    }
+63
+64public:
+65    vector<long long> countOfPeaks(vector<int>& nums, vector<vector<int>>& queries) {
+66        n = nums.size();
+67        arr = nums;
+68        tree.assign(4 * n, Node());
+69        if (n > 0) build(0, 0, n - 1);
+70
+71        vector<long long> ans;
+72        for (auto& q : queries) {
+73            if (q[0] == 1) {
+74                long long L = q[1];
+75                long long R = q[2];
+76                if (R - L < 2) { 
+77                    // Not enough elements to form a subarray of length 3
+78                    ans.push_back(0);
+79                } else {
+80                    // Peaks must be strictly inside the queried interval (L + 1 to R - 1)
+81                    Node res = query(0, 0, n - 1, L + 1, R - 1);
+82                    if (res.first == -1) {
+83                        ans.push_back(0); // No peaks found
+84                    } else {
+85                        // Math formula application
+86                        long long val = R * res.last - R * L + L * res.first - res.V;
+87                        ans.push_back(val);
+88                    }
+89                }
+90            } else if (q[0] == 2) {
+91                int idx = q[1];
+92                int val = q[2];
+93                arr[idx] = val;
+94                
+95                // An update can change the peak status of the element itself and its 2 immediate neighbors
+96                for (int i = idx - 1; i <= idx + 1; ++i) {
+97                    if (i > 0 && i < n - 1) {
+98                        update(0, 0, n - 1, i);
+99                    }
+100                }
+101            }
+102        }
+103        return ans;
+104    }
+105};
