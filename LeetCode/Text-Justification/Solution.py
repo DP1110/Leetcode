@@ -1,0 +1,2 @@
+["My","momma","always","said,",""Life","was","like","a","box","of","chocolates.","You","never","know","what","you're","gonna","get."]
+20
