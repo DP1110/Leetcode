@@ -1,0 +1,77 @@
+1class Solution:
+2    def maxArea(self, mat):
+3        m = len(mat)
+4        n = len(mat[0])
+5        
+6        # dp[i][j] = side length of largest all-1s square with bottom-right at (i,j)
+7        dp = [[0] * n for _ in range(m)]
+8        for i in range(m):
+9            for j in range(n):
+10                if mat[i][j] == 1:
+11                    if i == 0 or j == 0:
+12                        dp[i][j] = 1
+13                    else:
+14                        dp[i][j] = min(dp[i-1][j], dp[i][j-1], dp[i-1][j-1]) + 1
+15        
+16        def can(k):
+17            """Check if two non-overlapping k×k squares exist."""
+18            if k == 0:
+19                return True
+20            # If grid can't fit two k×k squares in either dimension, impossible
+21            if m < 2 * k and n < 2 * k:
+22                return False
+23            
+24            row_has = [False] * (m - k + 1)  # any valid square starting at row i
+25            col_has = [False] * (n - k + 1)  # any valid square starting at col j
+26            
+27            for i in range(m - k + 1):
+28                for j in range(n - k + 1):
+29                    if dp[i + k - 1][j + k - 1] >= k:
+30                        row_has[i] = True
+31                        col_has[j] = True
+32            
+33            # Prefix/suffix for rows
+34            prefix_rows = [False] * (m - k + 1)
+35            prefix_rows[0] = row_has[0]
+36            for i in range(1, m - k + 1):
+37                prefix_rows[i] = prefix_rows[i-1] or row_has[i]
+38            
+39            suffix_rows = [False] * (m - k + 1)
+40            suffix_rows[-1] = row_has[-1]
+41            for i in range(m - k - 1, -1, -1):
+42                suffix_rows[i] = suffix_rows[i+1] or row_has[i]
+43            
+44            # Horizontal splits: one square entirely above the other
+45            for r in range(k, m - k + 1):
+46                if prefix_rows[r - k] and suffix_rows[r]:
+47                    return True
+48            
+49            # Prefix/suffix for cols
+50            prefix_cols = [False] * (n - k + 1)
+51            prefix_cols[0] = col_has[0]
+52            for j in range(1, n - k + 1):
+53                prefix_cols[j] = prefix_cols[j-1] or col_has[j]
+54            
+55            suffix_cols = [False] * (n - k + 1)
+56            suffix_cols[-1] = col_has[-1]
+57            for j in range(n - k - 1, -1, -1):
+58                suffix_cols[j] = suffix_cols[j+1] or col_has[j]
+59            
+60            # Vertical splits: one square entirely to the left of the other
+61            for c in range(k, n - k + 1):
+62                if prefix_cols[c - k] and suffix_cols[c]:
+63                    return True
+64            
+65            return False
+66        
+67        lo, hi = 1, min(m, n)
+68        ans = 0
+69        while lo <= hi:
+70            mid = (lo + hi) // 2
+71            if can(mid):
+72                ans = mid
+73                lo = mid + 1
+74            else:
+75                hi = mid - 1
+76        
+77        return ans * ans
