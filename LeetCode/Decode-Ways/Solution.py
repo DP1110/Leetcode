@@ -10,11 +10,11 @@
 10        for i in range(1, n):
 11            current = 0
 12            
-13            # Single digit
+13            # Single digit: s[i] must not be '0'
 14            if s[i] != '0':
 15                current += prev1
 16            
-17            # Two digits
+17            # Two digits: s[i-1:i+1] must be between 10 and 26
 18            two_digit = int(s[i-1:i+1])
 19            if 10 <= two_digit <= 26:
 20                current += prev2
