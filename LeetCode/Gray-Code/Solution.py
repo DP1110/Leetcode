@@ -1,13 +1,9 @@
 1class Solution(object):
 2    def grayCode(self, n):
-3        """
-4        :type n: int
-5        :rtype: List[int]
-6        """
-7        result = []
-8        size = 1 << n  # 2^n
-9        
-10        for i in range(size):
-11            result.append(i ^ (i >> 1))
-12        
-13        return result
+3        result = [0]
+4        for i in range(n):
+5            # Reflect and add the new bit
+6            add = 1 << i
+7            for j in range(len(result) - 1, -1, -1):
+8                result.append(result[j] + add)
+9        return result
