@@ -1,17 +1,17 @@
 class Solution(object):
     def minimumPushes(self, word):
-        from collections import Counter
+        # Use array instead of Counter - much faster
+        count = [0] * 26
+        for ch in word:
+            count[ord(ch) - 97] += 1  # 97 is ord('a')
         
-        # Count frequencies
-        freq = Counter(word)
-        
-        # Sort frequencies in descending order
-        frequencies = sorted(freq.values(), reverse=True)
+        # Sort descending
+        count.sort(reverse=True)
         
         total = 0
-        for i, count in enumerate(frequencies):
-            # i//8 gives which "layer" (0-indexed), so pushes = i//8 + 1
-            pushes = (i // 8) + 1
-            total += count * pushes
+        for i in range(26):
+            if count[i] == 0:
+                break
+            total += count[i] * ((i // 8) + 1)
         
         return total
