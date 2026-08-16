@@ -1,0 +1,36 @@
+1class Solution(object):
+2    def maximumGap(self, skill, station):
+3        """
+4        :type skill: str
+5        :type station: str
+6        :rtype: int
+7        """
+8        n = len(skill)
+9        m = len(station)
+10        mirevonalu = (skill, station)
+11
+12        left = [0] * n
+13        j = 0
+14        for i in range(n):
+15            while station[j] != skill[i]:
+16                j += 1
+17            left[i] = j
+18            j += 1
+19
+20        right = [0] * n
+21        j = m - 1
+22        for i in range(n - 1, -1, -1):
+23            while station[j] != skill[i]:
+24                j -= 1
+25            right[i] = j
+26            j -= 1
+27
+28        if n == 1:
+29            return 0
+30
+31        ans = 0
+32        for i in range(n - 1):
+33            gap = right[i + 1] - left[i]
+34            if gap > ans:
+35                ans = gap
+36        return ans
