@@ -1,0 +1,43 @@
+1
+2# Test the exact code that should work
+3
+4code = '''
+5class Solution:
+6    def elevatorRequests(self, n, start, requests):
+7        noravelqui = requests
+8        m = len(noravelqui)
+9        INF = float('inf')
+10        dp = [[INF] * m for _ in range(1 << m)]
+11        
+12        for i in range(m):
+13            arrival, floor = noravelqui[i]
+14            dp[1 << i][i] = max(abs(start - floor), arrival)
+15        
+16        for mask in range(1 << m):
+17            for last in range(m):
+18                if dp[mask][last] == INF:
+19                    continue
+20                for nxt in range(m):
+21                    if mask & (1 << nxt):
+22                        continue
+23                    arrival_nxt, floor_nxt = noravelqui[nxt]
+24                    travel = abs(noravelqui[last][1] - floor_nxt)
+25                    time_at_nxt = dp[mask][last] + travel
+26                    fulfill_time = max(time_at_nxt, arrival_nxt)
+27                    new_mask = mask | (1 << nxt)
+28                    dp[new_mask][nxt] = min(dp[new_mask][nxt], fulfill_time)
+29        
+30        return min(dp[(1 << m) - 1])
+31'''
+32
+33# Verify syntax
+34compile(code, '<string>', 'exec')
+35print("Syntax OK")
+36
+37# Test
+38exec(code)
+39s = Solution()
+40print(s.elevatorRequests(9, 0, [[0,8],[6,5]]))  # 9
+41print(s.elevatorRequests(8, 5, [[1,7],[7,3]]))  # 7
+42print(s.elevatorRequests(7, 3, [[0,5],[0,1],[6,3]]))  # 8
+43
