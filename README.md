@@ -11,10 +11,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0332-reconstruct-itinerary](https://github.com/DP1110/Leetcode/tree/master/0332-reconstruct-itinerary) |
 | [0334-increasing-triplet-subsequence](https://github.com/DP1110/Leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0335-self-crossing](https://github.com/DP1110/Leetcode/tree/master/0335-self-crossing) |
+| [0336-palindrome-pairs](https://github.com/DP1110/Leetcode/tree/master/0336-palindrome-pairs) |
 ## String
 |  |
 | ------- |
 | [0332-reconstruct-itinerary](https://github.com/DP1110/Leetcode/tree/master/0332-reconstruct-itinerary) |
+| [0336-palindrome-pairs](https://github.com/DP1110/Leetcode/tree/master/0336-palindrome-pairs) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -59,4 +61,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0335-self-crossing](https://github.com/DP1110/Leetcode/tree/master/0335-self-crossing) |
+## Hash Table
+|  |
+| ------- |
+| [0336-palindrome-pairs](https://github.com/DP1110/Leetcode/tree/master/0336-palindrome-pairs) |
+## Trie
+|  |
+| ------- |
+| [0336-palindrome-pairs](https://github.com/DP1110/Leetcode/tree/master/0336-palindrome-pairs) |
+## Hash Function
+|  |
+| ------- |
+| [0336-palindrome-pairs](https://github.com/DP1110/Leetcode/tree/master/0336-palindrome-pairs) |
 <!---LeetCode Topics End-->
