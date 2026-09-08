@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0380-insert-delete-getrandom-o1](https://github.com/DP1110/Leetcode/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/DP1110/Leetcode/tree/main/0381-insert-delete-getrandom-o1-duplicates-allowed/) | Hard |
 | [0382-linked-list-random-node](https://github.com/DP1110/Leetcode/tree/main/0382-linked-list-random-node/) | Medium |
+| [3870-count-commas-in-range](https://github.com/DP1110/Leetcode/tree/main/3870-count-commas-in-range/) | Easy |
 ## Geometry
 | Problem Name | Difficulty |
 | ------- | ------- |
