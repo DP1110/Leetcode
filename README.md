@@ -32,10 +32,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0210-course-schedule-ii](https://github.com/DP1110/Leetcode/tree/main/0210-course-schedule-ii/) | Medium |
 | [0332-reconstruct-itinerary](https://github.com/DP1110/Leetcode/tree/master/0332-reconstruct-itinerary) |
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0210-course-schedule-ii](https://github.com/DP1110/Leetcode/tree/main/0210-course-schedule-ii/) | Medium |
 | [0332-reconstruct-itinerary](https://github.com/DP1110/Leetcode/tree/master/0332-reconstruct-itinerary) |
 ## Sorting
 | Problem Name | Difficulty |
@@ -172,4 +174,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/DP1110/Leetcode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+## Breadth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0210-course-schedule-ii](https://github.com/DP1110/Leetcode/tree/main/0210-course-schedule-ii/) | Medium |
+## Topological Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0210-course-schedule-ii](https://github.com/DP1110/Leetcode/tree/main/0210-course-schedule-ii/) | Medium |
 <!---LeetCode Topics End-->
