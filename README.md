@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0203-remove-linked-list-elements](https://github.com/DP1110/Leetcode/tree/main/0203-remove-linked-list-elements/) | Easy |
+| [0206-reverse-linked-list](https://github.com/DP1110/Leetcode/tree/main/0206-reverse-linked-list/) | Easy |
 | [0382-linked-list-random-node](https://github.com/DP1110/Leetcode/tree/main/0382-linked-list-random-node/) | Medium |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/DP1110/Leetcode/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 ## Array
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0203-remove-linked-list-elements](https://github.com/DP1110/Leetcode/tree/main/0203-remove-linked-list-elements/) | Easy |
+| [0206-reverse-linked-list](https://github.com/DP1110/Leetcode/tree/main/0206-reverse-linked-list/) | Easy |
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
