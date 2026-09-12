@@ -31,12 +31,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0332-reconstruct-itinerary](https://github.com/DP1110/Leetcode/tree/master/0332-reconstruct-itinerary) |
 | [0336-palindrome-pairs](https://github.com/DP1110/Leetcode/tree/master/0336-palindrome-pairs) |
 | [0383-ransom-note](https://github.com/DP1110/Leetcode/tree/main/0383-ransom-note/) | Easy |
+| [0385-mini-parser](https://github.com/DP1110/Leetcode/tree/main/0385-mini-parser/) | Medium |
 | [0940-distinct-subsequences-ii](https://github.com/DP1110/Leetcode/tree/main/0940-distinct-subsequences-ii/) | Hard |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0210-course-schedule-ii](https://github.com/DP1110/Leetcode/tree/main/0210-course-schedule-ii/) | Medium |
 | [0332-reconstruct-itinerary](https://github.com/DP1110/Leetcode/tree/master/0332-reconstruct-itinerary) |
+| [0385-mini-parser](https://github.com/DP1110/Leetcode/tree/main/0385-mini-parser/) | Medium |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/DP1110/Leetcode/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 ## Graph Theory
 | Problem Name | Difficulty |
@@ -204,4 +206,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/DP1110/Leetcode/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0385-mini-parser](https://github.com/DP1110/Leetcode/tree/main/0385-mini-parser/) | Medium |
 <!---LeetCode Topics End-->
