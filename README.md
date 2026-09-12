@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0336-palindrome-pairs](https://github.com/DP1110/Leetcode/tree/master/0336-palindrome-pairs) |
 | [0380-insert-delete-getrandom-o1](https://github.com/DP1110/Leetcode/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/DP1110/Leetcode/tree/main/0381-insert-delete-getrandom-o1-duplicates-allowed/) | Hard |
+| [0384-shuffle-an-array](https://github.com/DP1110/Leetcode/tree/main/0384-shuffle-an-array/) | Medium |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/DP1110/Leetcode/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 | [3483-unique-3-digit-even-numbers](https://github.com/DP1110/Leetcode/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 ## String
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0380-insert-delete-getrandom-o1](https://github.com/DP1110/Leetcode/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/DP1110/Leetcode/tree/main/0381-insert-delete-getrandom-o1-duplicates-allowed/) | Hard |
 | [0382-linked-list-random-node](https://github.com/DP1110/Leetcode/tree/main/0382-linked-list-random-node/) | Medium |
+| [0384-shuffle-an-array](https://github.com/DP1110/Leetcode/tree/main/0384-shuffle-an-array/) | Medium |
 | [3870-count-commas-in-range](https://github.com/DP1110/Leetcode/tree/main/3870-count-commas-in-range/) | Easy |
 | [3871-count-commas-in-range-ii](https://github.com/DP1110/Leetcode/tree/main/3871-count-commas-in-range-ii/) | Medium |
 ## Geometry
@@ -109,12 +111,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/DP1110/Leetcode/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 | [0380-insert-delete-getrandom-o1](https://github.com/DP1110/Leetcode/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/DP1110/Leetcode/tree/main/0381-insert-delete-getrandom-o1-duplicates-allowed/) | Hard |
+| [0384-shuffle-an-array](https://github.com/DP1110/Leetcode/tree/main/0384-shuffle-an-array/) | Medium |
 ## Randomized
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/DP1110/Leetcode/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/DP1110/Leetcode/tree/main/0381-insert-delete-getrandom-o1-duplicates-allowed/) | Hard |
 | [0382-linked-list-random-node](https://github.com/DP1110/Leetcode/tree/main/0382-linked-list-random-node/) | Medium |
+| [0384-shuffle-an-array](https://github.com/DP1110/Leetcode/tree/main/0384-shuffle-an-array/) | Medium |
 ## Reservoir Sampling
 | Problem Name | Difficulty |
 | ------- | ------- |
