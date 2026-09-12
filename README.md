@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0385-mini-parser](https://github.com/DP1110/Leetcode/tree/main/0385-mini-parser/) | Medium |
 | [0387-first-unique-character-in-a-string](https://github.com/DP1110/Leetcode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0388-longest-absolute-file-path](https://github.com/DP1110/Leetcode/tree/main/0388-longest-absolute-file-path/) | Medium |
+| [0389-find-the-difference](https://github.com/DP1110/Leetcode/tree/main/0389-find-the-difference/) | Easy |
 | [0940-distinct-subsequences-ii](https://github.com/DP1110/Leetcode/tree/main/0940-distinct-subsequences-ii/) | Hard |
 ## Depth-First Search
 | Problem Name | Difficulty |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0332-reconstruct-itinerary](https://github.com/DP1110/Leetcode/tree/master/0332-reconstruct-itinerary) |
+| [0389-find-the-difference](https://github.com/DP1110/Leetcode/tree/main/0389-find-the-difference/) | Easy |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/DP1110/Leetcode/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
@@ -102,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/DP1110/Leetcode/tree/main/0381-insert-delete-getrandom-o1-duplicates-allowed/) | Hard |
 | [0383-ransom-note](https://github.com/DP1110/Leetcode/tree/main/0383-ransom-note/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/DP1110/Leetcode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+| [0389-find-the-difference](https://github.com/DP1110/Leetcode/tree/main/0389-find-the-difference/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/DP1110/Leetcode/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 ## Trie
 | Problem Name | Difficulty |
@@ -153,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0190-reverse-bits](https://github.com/DP1110/Leetcode/tree/main/0190-reverse-bits/) | Easy |
 | [0191-number-of-1-bits](https://github.com/DP1110/Leetcode/tree/main/0191-number-of-1-bits/) | Easy |
+| [0389-find-the-difference](https://github.com/DP1110/Leetcode/tree/main/0389-find-the-difference/) | Easy |
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
