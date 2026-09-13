@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/DP1110/Leetcode/tree/main/0381-insert-delete-getrandom-o1-duplicates-allowed/) | Hard |
 | [0384-shuffle-an-array](https://github.com/DP1110/Leetcode/tree/main/0384-shuffle-an-array/) | Medium |
 | [0391-perfect-rectangle](https://github.com/DP1110/Leetcode/tree/main/0391-perfect-rectangle/) | Hard |
+| [0393-utf-8-validation](https://github.com/DP1110/Leetcode/tree/main/0393-utf-8-validation/) | Medium |
 | [0835-image-overlap](https://github.com/DP1110/Leetcode/tree/main/0835-image-overlap/) | Medium |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/DP1110/Leetcode/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 | [3483-unique-3-digit-even-numbers](https://github.com/DP1110/Leetcode/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0190-reverse-bits](https://github.com/DP1110/Leetcode/tree/main/0190-reverse-bits/) | Easy |
 | [0191-number-of-1-bits](https://github.com/DP1110/Leetcode/tree/main/0191-number-of-1-bits/) | Easy |
 | [0389-find-the-difference](https://github.com/DP1110/Leetcode/tree/main/0389-find-the-difference/) | Easy |
+| [0393-utf-8-validation](https://github.com/DP1110/Leetcode/tree/main/0393-utf-8-validation/) | Medium |
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
