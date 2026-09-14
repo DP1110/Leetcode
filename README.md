@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/DP1110/Leetcode/tree/main/0213-house-robber-ii/) | Medium |
 | [0216-combination-sum-iii](https://github.com/DP1110/Leetcode/tree/main/0216-combination-sum-iii/) | Medium |
 | [0217-contains-duplicate](https://github.com/DP1110/Leetcode/tree/main/0217-contains-duplicate/) | Easy |
+| [0218-the-skyline-problem](https://github.com/DP1110/Leetcode/tree/main/0218-the-skyline-problem/) | Hard |
 | [0332-reconstruct-itinerary](https://github.com/DP1110/Leetcode/tree/master/0332-reconstruct-itinerary) |
 | [0334-increasing-triplet-subsequence](https://github.com/DP1110/Leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0335-self-crossing](https://github.com/DP1110/Leetcode/tree/master/0335-self-crossing) |
@@ -65,12 +66,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0217-contains-duplicate](https://github.com/DP1110/Leetcode/tree/main/0217-contains-duplicate/) | Easy |
+| [0218-the-skyline-problem](https://github.com/DP1110/Leetcode/tree/main/0218-the-skyline-problem/) | Hard |
 | [0332-reconstruct-itinerary](https://github.com/DP1110/Leetcode/tree/master/0332-reconstruct-itinerary) |
 | [0389-find-the-difference](https://github.com/DP1110/Leetcode/tree/main/0389-find-the-difference/) | Easy |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/DP1110/Leetcode/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0218-the-skyline-problem](https://github.com/DP1110/Leetcode/tree/main/0218-the-skyline-problem/) | Hard |
 | [0332-reconstruct-itinerary](https://github.com/DP1110/Leetcode/tree/master/0332-reconstruct-itinerary) |
 ## Eulerian Circuit
 | Problem Name | Difficulty |
@@ -174,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0190-reverse-bits](https://github.com/DP1110/Leetcode/tree/main/0190-reverse-bits/) | Easy |
 | [0191-number-of-1-bits](https://github.com/DP1110/Leetcode/tree/main/0191-number-of-1-bits/) | Easy |
+| [0218-the-skyline-problem](https://github.com/DP1110/Leetcode/tree/main/0218-the-skyline-problem/) | Hard |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/DP1110/Leetcode/tree/main/0395-longest-substring-with-at-least-k-repeating-characters/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
@@ -263,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sweep Line
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0218-the-skyline-problem](https://github.com/DP1110/Leetcode/tree/main/0218-the-skyline-problem/) | Hard |
 | [0391-perfect-rectangle](https://github.com/DP1110/Leetcode/tree/main/0391-perfect-rectangle/) | Hard |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -273,4 +278,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0212-word-search-ii](https://github.com/DP1110/Leetcode/tree/main/0212-word-search-ii/) | Hard |
 | [0216-combination-sum-iii](https://github.com/DP1110/Leetcode/tree/main/0216-combination-sum-iii/) | Medium |
+## Binary Indexed Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0218-the-skyline-problem](https://github.com/DP1110/Leetcode/tree/main/0218-the-skyline-problem/) | Hard |
+## Segment Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0218-the-skyline-problem](https://github.com/DP1110/Leetcode/tree/main/0218-the-skyline-problem/) | Hard |
+## Ordered Set
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0218-the-skyline-problem](https://github.com/DP1110/Leetcode/tree/main/0218-the-skyline-problem/) | Hard |
 <!---LeetCode Topics End-->
