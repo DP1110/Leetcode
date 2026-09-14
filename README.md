@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/DP1110/Leetcode/tree/main/0204-count-primes/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/DP1110/Leetcode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0212-word-search-ii](https://github.com/DP1110/Leetcode/tree/main/0212-word-search-ii/) | Hard |
+| [0213-house-robber-ii](https://github.com/DP1110/Leetcode/tree/main/0213-house-robber-ii/) | Medium |
 | [0332-reconstruct-itinerary](https://github.com/DP1110/Leetcode/tree/master/0332-reconstruct-itinerary) |
 | [0334-increasing-triplet-subsequence](https://github.com/DP1110/Leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0335-self-crossing](https://github.com/DP1110/Leetcode/tree/master/0335-self-crossing) |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0115-distinct-subsequences](https://github.com/DP1110/Leetcode/tree/main/0115-distinct-subsequences/) | Hard |
 | [0198-house-robber](https://github.com/DP1110/Leetcode/tree/main/0198-house-robber/) | Medium |
+| [0213-house-robber-ii](https://github.com/DP1110/Leetcode/tree/main/0213-house-robber-ii/) | Medium |
 | [0392-is-subsequence](https://github.com/DP1110/Leetcode/tree/main/0392-is-subsequence/) | Easy |
 | [0940-distinct-subsequences-ii](https://github.com/DP1110/Leetcode/tree/main/0940-distinct-subsequences-ii/) | Hard |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/DP1110/Leetcode/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
