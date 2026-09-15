@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0204-count-primes](https://github.com/DP1110/Leetcode/tree/main/0204-count-primes/) | Medium |
+| [0223-rectangle-area](https://github.com/DP1110/Leetcode/tree/main/0223-rectangle-area/) | Medium |
 | [0335-self-crossing](https://github.com/DP1110/Leetcode/tree/master/0335-self-crossing) |
 | [0380-insert-delete-getrandom-o1](https://github.com/DP1110/Leetcode/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/DP1110/Leetcode/tree/main/0381-insert-delete-getrandom-o1-duplicates-allowed/) | Hard |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Geometry
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0223-rectangle-area](https://github.com/DP1110/Leetcode/tree/main/0223-rectangle-area/) | Medium |
 | [0335-self-crossing](https://github.com/DP1110/Leetcode/tree/master/0335-self-crossing) |
 | [0391-perfect-rectangle](https://github.com/DP1110/Leetcode/tree/main/0391-perfect-rectangle/) | Hard |
 | [0836-rectangle-overlap](https://github.com/DP1110/Leetcode/tree/main/0836-rectangle-overlap/) | Easy |
