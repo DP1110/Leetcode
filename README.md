@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/DP1110/Leetcode/tree/main/0217-contains-duplicate/) | Easy |
 | [0218-the-skyline-problem](https://github.com/DP1110/Leetcode/tree/main/0218-the-skyline-problem/) | Hard |
 | [0220-contains-duplicate-iii](https://github.com/DP1110/Leetcode/tree/main/0220-contains-duplicate-iii/) | Hard |
+| [0228-summary-ranges](https://github.com/DP1110/Leetcode/tree/main/0228-summary-ranges/) | Easy |
 | [0332-reconstruct-itinerary](https://github.com/DP1110/Leetcode/tree/master/0332-reconstruct-itinerary) |
 | [0334-increasing-triplet-subsequence](https://github.com/DP1110/Leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0335-self-crossing](https://github.com/DP1110/Leetcode/tree/master/0335-self-crossing) |
