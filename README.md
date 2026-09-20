@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-distinct-subsequences-ii](https://github.com/DP1110/Leetcode/tree/main/0940-distinct-subsequences-ii/) | Hard |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/DP1110/Leetcode/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/DP1110/Leetcode/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
+| [3498-reverse-degree-of-a-string](https://github.com/DP1110/Leetcode/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -349,4 +350,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0229-majority-element-ii](https://github.com/DP1110/Leetcode/tree/main/0229-majority-element-ii/) | Medium |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3498-reverse-degree-of-a-string](https://github.com/DP1110/Leetcode/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 <!---LeetCode Topics End-->
