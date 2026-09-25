@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0394-decode-string](https://github.com/DP1110/Leetcode/tree/main/0394-decode-string/) | Medium |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/DP1110/Leetcode/tree/main/0395-longest-substring-with-at-least-k-repeating-characters/) | Medium |
 | [0940-distinct-subsequences-ii](https://github.com/DP1110/Leetcode/tree/main/0940-distinct-subsequences-ii/) | Hard |
+| [1096-brace-expansion-ii](https://github.com/DP1110/Leetcode/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/DP1110/Leetcode/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/DP1110/Leetcode/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [3498-reverse-degree-of-a-string](https://github.com/DP1110/Leetcode/tree/main/3498-reverse-degree-of-a-string/) | Easy |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/DP1110/Leetcode/tree/main/0229-majority-element-ii/) | Medium |
 | [0332-reconstruct-itinerary](https://github.com/DP1110/Leetcode/tree/master/0332-reconstruct-itinerary) |
 | [0389-find-the-difference](https://github.com/DP1110/Leetcode/tree/main/0389-find-the-difference/) | Easy |
+| [1096-brace-expansion-ii](https://github.com/DP1110/Leetcode/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/DP1110/Leetcode/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/DP1110/Leetcode/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 ## Heap (Priority Queue)
@@ -158,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/DP1110/Leetcode/tree/main/0389-find-the-difference/) | Easy |
 | [0391-perfect-rectangle](https://github.com/DP1110/Leetcode/tree/main/0391-perfect-rectangle/) | Hard |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/DP1110/Leetcode/tree/main/0395-longest-substring-with-at-least-k-repeating-characters/) | Medium |
+| [1096-brace-expansion-ii](https://github.com/DP1110/Leetcode/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/DP1110/Leetcode/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/DP1110/Leetcode/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/DP1110/Leetcode/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
@@ -288,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0210-course-schedule-ii](https://github.com/DP1110/Leetcode/tree/main/0210-course-schedule-ii/) | Medium |
 | [0226-invert-binary-tree](https://github.com/DP1110/Leetcode/tree/main/0226-invert-binary-tree/) | Easy |
+| [1096-brace-expansion-ii](https://github.com/DP1110/Leetcode/tree/main/1096-brace-expansion-ii/) | Hard |
 ## Topological Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -312,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0385-mini-parser](https://github.com/DP1110/Leetcode/tree/main/0385-mini-parser/) | Medium |
 | [0388-longest-absolute-file-path](https://github.com/DP1110/Leetcode/tree/main/0388-longest-absolute-file-path/) | Medium |
 | [0394-decode-string](https://github.com/DP1110/Leetcode/tree/main/0394-decode-string/) | Medium |
+| [1096-brace-expansion-ii](https://github.com/DP1110/Leetcode/tree/main/1096-brace-expansion-ii/) | Hard |
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -337,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0212-word-search-ii](https://github.com/DP1110/Leetcode/tree/main/0212-word-search-ii/) | Hard |
 | [0216-combination-sum-iii](https://github.com/DP1110/Leetcode/tree/main/0216-combination-sum-iii/) | Medium |
+| [1096-brace-expansion-ii](https://github.com/DP1110/Leetcode/tree/main/1096-brace-expansion-ii/) | Hard |
 ## Binary Indexed Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
