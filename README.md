@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/DP1110/Leetcode/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/DP1110/Leetcode/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3498-reverse-degree-of-a-string](https://github.com/DP1110/Leetcode/tree/main/3498-reverse-degree-of-a-string/) | Easy |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/DP1110/Leetcode/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1401-circle-and-rectangle-overlapping](https://github.com/DP1110/Leetcode/tree/main/1401-circle-and-rectangle-overlapping/) | Medium |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/DP1110/Leetcode/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/DP1110/Leetcode/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/DP1110/Leetcode/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
 | [3524-find-x-value-of-array-i](https://github.com/DP1110/Leetcode/tree/main/3524-find-x-value-of-array-i/) | Medium |
 | [3525-find-x-value-of-array-ii](https://github.com/DP1110/Leetcode/tree/main/3525-find-x-value-of-array-ii/) | Hard |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/DP1110/Leetcode/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
@@ -177,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/DP1110/Leetcode/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/DP1110/Leetcode/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [3483-unique-3-digit-even-numbers](https://github.com/DP1110/Leetcode/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/DP1110/Leetcode/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -215,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/DP1110/Leetcode/tree/main/0229-majority-element-ii/) | Medium |
 | [0383-ransom-note](https://github.com/DP1110/Leetcode/tree/main/0383-ransom-note/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/DP1110/Leetcode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/DP1110/Leetcode/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -384,6 +388,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/DP1110/Leetcode/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/DP1110/Leetcode/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
 ## Boyer–Moore Majority Vote Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
