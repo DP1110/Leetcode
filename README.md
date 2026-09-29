@@ -146,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0391-perfect-rectangle](https://github.com/DP1110/Leetcode/tree/main/0391-perfect-rectangle/) | Hard |
 | [0396-rotate-function](https://github.com/DP1110/Leetcode/tree/main/0396-rotate-function/) | Medium |
 | [0398-random-pick-index](https://github.com/DP1110/Leetcode/tree/main/0398-random-pick-index/) | Medium |
+| [0400-nth-digit](https://github.com/DP1110/Leetcode/tree/main/0400-nth-digit/) | Medium |
 | [0836-rectangle-overlap](https://github.com/DP1110/Leetcode/tree/main/0836-rectangle-overlap/) | Easy |
 | [1401-circle-and-rectangle-overlapping](https://github.com/DP1110/Leetcode/tree/main/1401-circle-and-rectangle-overlapping/) | Medium |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/DP1110/Leetcode/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
@@ -297,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/DP1110/Leetcode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0222-count-complete-tree-nodes](https://github.com/DP1110/Leetcode/tree/main/0222-count-complete-tree-nodes/) | Medium |
+| [0400-nth-digit](https://github.com/DP1110/Leetcode/tree/main/0400-nth-digit/) | Medium |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/DP1110/Leetcode/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/DP1110/Leetcode/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/DP1110/Leetcode/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
