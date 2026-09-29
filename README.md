@@ -2,15 +2,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Linked List
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0203-remove-linked-list-elements](https://github.com/DP1110/Leetcode/tree/main/0203-remove-linked-list-elements/) | Easy |
 | [0206-reverse-linked-list](https://github.com/DP1110/Leetcode/tree/main/0206-reverse-linked-list/) | Easy |
 | [0382-linked-list-random-node](https://github.com/DP1110/Leetcode/tree/main/0382-linked-list-random-node/) | Medium |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/DP1110/Leetcode/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 ## Array
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0198-house-robber](https://github.com/DP1110/Leetcode/tree/main/0198-house-robber/) | Medium |
 | [0204-count-primes](https://github.com/DP1110/Leetcode/tree/main/0204-count-primes/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/DP1110/Leetcode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
@@ -44,8 +44,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3525-find-x-value-of-array-ii](https://github.com/DP1110/Leetcode/tree/main/3525-find-x-value-of-array-ii/) | Hard |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/DP1110/Leetcode/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 ## String
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0115-distinct-subsequences](https://github.com/DP1110/Leetcode/tree/main/0115-distinct-subsequences/) | Hard |
 | [0208-implement-trie-prefix-tree](https://github.com/DP1110/Leetcode/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 | [0211-design-add-and-search-words-data-structure](https://github.com/DP1110/Leetcode/tree/main/0211-design-add-and-search-words-data-structure/) | Medium |
@@ -73,8 +73,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3498-reverse-degree-of-a-string](https://github.com/DP1110/Leetcode/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/DP1110/Leetcode/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
 ## Depth-First Search
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0210-course-schedule-ii](https://github.com/DP1110/Leetcode/tree/main/0210-course-schedule-ii/) | Medium |
 | [0211-design-add-and-search-words-data-structure](https://github.com/DP1110/Leetcode/tree/main/0211-design-add-and-search-words-data-structure/) | Medium |
 | [0226-invert-binary-tree](https://github.com/DP1110/Leetcode/tree/main/0226-invert-binary-tree/) | Easy |
@@ -85,14 +85,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0399-evaluate-division](https://github.com/DP1110/Leetcode/tree/main/0399-evaluate-division/) | Medium |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/DP1110/Leetcode/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 ## Graph Theory
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0210-course-schedule-ii](https://github.com/DP1110/Leetcode/tree/main/0210-course-schedule-ii/) | Medium |
 | [0332-reconstruct-itinerary](https://github.com/DP1110/Leetcode/tree/master/0332-reconstruct-itinerary) |
 | [0399-evaluate-division](https://github.com/DP1110/Leetcode/tree/main/0399-evaluate-division/) | Medium |
 ## Sorting
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0217-contains-duplicate](https://github.com/DP1110/Leetcode/tree/main/0217-contains-duplicate/) | Easy |
 | [0218-the-skyline-problem](https://github.com/DP1110/Leetcode/tree/main/0218-the-skyline-problem/) | Hard |
 | [0220-contains-duplicate-iii](https://github.com/DP1110/Leetcode/tree/main/0220-contains-duplicate-iii/) | Hard |
@@ -103,37 +103,37 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/DP1110/Leetcode/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/DP1110/Leetcode/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 ## Heap (Priority Queue)
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0218-the-skyline-problem](https://github.com/DP1110/Leetcode/tree/main/0218-the-skyline-problem/) | Hard |
 | [0332-reconstruct-itinerary](https://github.com/DP1110/Leetcode/tree/master/0332-reconstruct-itinerary) |
 ## Eulerian Circuit
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0332-reconstruct-itinerary](https://github.com/DP1110/Leetcode/tree/master/0332-reconstruct-itinerary) |
 ## Eulerian Path
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0332-reconstruct-itinerary](https://github.com/DP1110/Leetcode/tree/master/0332-reconstruct-itinerary) |
 ## Semi-Eulerian Graph
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0332-reconstruct-itinerary](https://github.com/DP1110/Leetcode/tree/master/0332-reconstruct-itinerary) |
 ## Greedy
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0334-increasing-triplet-subsequence](https://github.com/DP1110/Leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0397-integer-replacement](https://github.com/DP1110/Leetcode/tree/main/0397-integer-replacement/) | Medium |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/DP1110/Leetcode/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/DP1110/Leetcode/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/DP1110/Leetcode/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 ## Longest Increasing Subsequence
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0334-increasing-triplet-subsequence](https://github.com/DP1110/Leetcode/tree/master/0334-increasing-triplet-subsequence) |
 ## Math
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0204-count-primes](https://github.com/DP1110/Leetcode/tree/main/0204-count-primes/) | Medium |
 | [0223-rectangle-area](https://github.com/DP1110/Leetcode/tree/main/0223-rectangle-area/) | Medium |
 | [0227-basic-calculator-ii](https://github.com/DP1110/Leetcode/tree/main/0227-basic-calculator-ii/) | Medium |
@@ -158,16 +158,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3870-count-commas-in-range](https://github.com/DP1110/Leetcode/tree/main/3870-count-commas-in-range/) | Easy |
 | [3871-count-commas-in-range-ii](https://github.com/DP1110/Leetcode/tree/main/3871-count-commas-in-range-ii/) | Medium |
 ## Geometry
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0223-rectangle-area](https://github.com/DP1110/Leetcode/tree/main/0223-rectangle-area/) | Medium |
 | [0335-self-crossing](https://github.com/DP1110/Leetcode/tree/master/0335-self-crossing) |
 | [0391-perfect-rectangle](https://github.com/DP1110/Leetcode/tree/main/0391-perfect-rectangle/) | Hard |
 | [0836-rectangle-overlap](https://github.com/DP1110/Leetcode/tree/main/0836-rectangle-overlap/) | Easy |
 | [1401-circle-and-rectangle-overlapping](https://github.com/DP1110/Leetcode/tree/main/1401-circle-and-rectangle-overlapping/) | Medium |
 ## Hash Table
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/DP1110/Leetcode/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 | [0217-contains-duplicate](https://github.com/DP1110/Leetcode/tree/main/0217-contains-duplicate/) | Easy |
 | [0229-majority-element-ii](https://github.com/DP1110/Leetcode/tree/main/0229-majority-element-ii/) | Medium |
@@ -188,20 +188,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3483-unique-3-digit-even-numbers](https://github.com/DP1110/Leetcode/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/DP1110/Leetcode/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
 ## Trie
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/DP1110/Leetcode/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 | [0211-design-add-and-search-words-data-structure](https://github.com/DP1110/Leetcode/tree/main/0211-design-add-and-search-words-data-structure/) | Medium |
 | [0212-word-search-ii](https://github.com/DP1110/Leetcode/tree/main/0212-word-search-ii/) | Hard |
 | [0336-palindrome-pairs](https://github.com/DP1110/Leetcode/tree/master/0336-palindrome-pairs) |
 | [0386-lexicographical-numbers](https://github.com/DP1110/Leetcode/tree/main/0386-lexicographical-numbers/) | Medium |
 ## Hash Function
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0336-palindrome-pairs](https://github.com/DP1110/Leetcode/tree/master/0336-palindrome-pairs) |
 ## Design
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/DP1110/Leetcode/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 | [0211-design-add-and-search-words-data-structure](https://github.com/DP1110/Leetcode/tree/main/0211-design-add-and-search-words-data-structure/) | Medium |
 | [0225-implement-stack-using-queues](https://github.com/DP1110/Leetcode/tree/main/0225-implement-stack-using-queues/) | Easy |
@@ -209,28 +209,28 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/DP1110/Leetcode/tree/main/0381-insert-delete-getrandom-o1-duplicates-allowed/) | Hard |
 | [0384-shuffle-an-array](https://github.com/DP1110/Leetcode/tree/main/0384-shuffle-an-array/) | Medium |
 ## Randomized
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/DP1110/Leetcode/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/DP1110/Leetcode/tree/main/0381-insert-delete-getrandom-o1-duplicates-allowed/) | Hard |
 | [0382-linked-list-random-node](https://github.com/DP1110/Leetcode/tree/main/0382-linked-list-random-node/) | Medium |
 | [0384-shuffle-an-array](https://github.com/DP1110/Leetcode/tree/main/0384-shuffle-an-array/) | Medium |
 | [0398-random-pick-index](https://github.com/DP1110/Leetcode/tree/main/0398-random-pick-index/) | Medium |
 ## Reservoir Sampling
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0382-linked-list-random-node](https://github.com/DP1110/Leetcode/tree/main/0382-linked-list-random-node/) | Medium |
 | [0398-random-pick-index](https://github.com/DP1110/Leetcode/tree/main/0398-random-pick-index/) | Medium |
 ## Counting
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0229-majority-element-ii](https://github.com/DP1110/Leetcode/tree/main/0229-majority-element-ii/) | Medium |
 | [0383-ransom-note](https://github.com/DP1110/Leetcode/tree/main/0383-ransom-note/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/DP1110/Leetcode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/DP1110/Leetcode/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
 ## Dynamic Programming
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0115-distinct-subsequences](https://github.com/DP1110/Leetcode/tree/main/0115-distinct-subsequences/) | Hard |
 | [0198-house-robber](https://github.com/DP1110/Leetcode/tree/main/0198-house-robber/) | Medium |
 | [0213-house-robber-ii](https://github.com/DP1110/Leetcode/tree/main/0213-house-robber-ii/) | Medium |
@@ -245,15 +245,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/DP1110/Leetcode/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 | [3524-find-x-value-of-array-i](https://github.com/DP1110/Leetcode/tree/main/3524-find-x-value-of-array-i/) | Medium |
 ## Divide and Conquer
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0190-reverse-bits](https://github.com/DP1110/Leetcode/tree/main/0190-reverse-bits/) | Easy |
 | [0191-number-of-1-bits](https://github.com/DP1110/Leetcode/tree/main/0191-number-of-1-bits/) | Easy |
 | [0218-the-skyline-problem](https://github.com/DP1110/Leetcode/tree/main/0218-the-skyline-problem/) | Hard |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/DP1110/Leetcode/tree/main/0395-longest-substring-with-at-least-k-repeating-characters/) | Medium |
 ## Bit Manipulation
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0190-reverse-bits](https://github.com/DP1110/Leetcode/tree/main/0190-reverse-bits/) | Easy |
 | [0191-number-of-1-bits](https://github.com/DP1110/Leetcode/tree/main/0191-number-of-1-bits/) | Easy |
 | [0222-count-complete-tree-nodes](https://github.com/DP1110/Leetcode/tree/main/0222-count-complete-tree-nodes/) | Medium |
@@ -261,41 +261,41 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0393-utf-8-validation](https://github.com/DP1110/Leetcode/tree/main/0393-utf-8-validation/) | Medium |
 | [0397-integer-replacement](https://github.com/DP1110/Leetcode/tree/main/0397-integer-replacement/) | Medium |
 ## Database
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0197-rising-temperature](https://github.com/DP1110/Leetcode/tree/main/0197-rising-temperature/) | Easy |
 ## Recursion
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0203-remove-linked-list-elements](https://github.com/DP1110/Leetcode/tree/main/0203-remove-linked-list-elements/) | Easy |
 | [0206-reverse-linked-list](https://github.com/DP1110/Leetcode/tree/main/0206-reverse-linked-list/) | Easy |
 | [0390-elimination-game](https://github.com/DP1110/Leetcode/tree/main/0390-elimination-game/) | Medium |
 | [0394-decode-string](https://github.com/DP1110/Leetcode/tree/main/0394-decode-string/) | Medium |
 | [3483-unique-3-digit-even-numbers](https://github.com/DP1110/Leetcode/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 ## Enumeration
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0204-count-primes](https://github.com/DP1110/Leetcode/tree/main/0204-count-primes/) | Medium |
 | [3483-unique-3-digit-even-numbers](https://github.com/DP1110/Leetcode/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 ## Number Theory
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0204-count-primes](https://github.com/DP1110/Leetcode/tree/main/0204-count-primes/) | Medium |
 ## Primality Test
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0204-count-primes](https://github.com/DP1110/Leetcode/tree/main/0204-count-primes/) | Medium |
 ## Sieve Theory
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0204-count-primes](https://github.com/DP1110/Leetcode/tree/main/0204-count-primes/) | Medium |
 ## Prime Number Sieve
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0204-count-primes](https://github.com/DP1110/Leetcode/tree/main/0204-count-primes/) | Medium |
 ## Binary Search
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/DP1110/Leetcode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0222-count-complete-tree-nodes](https://github.com/DP1110/Leetcode/tree/main/0222-count-complete-tree-nodes/) | Medium |
 | [0400-nth-digit](https://github.com/DP1110/Leetcode/tree/main/0400-nth-digit/) | Medium |
@@ -303,45 +303,45 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/DP1110/Leetcode/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/DP1110/Leetcode/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 ## Sliding Window
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/DP1110/Leetcode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0220-contains-duplicate-iii](https://github.com/DP1110/Leetcode/tree/main/0220-contains-duplicate-iii/) | Hard |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/DP1110/Leetcode/tree/main/0395-longest-substring-with-at-least-k-repeating-characters/) | Medium |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/DP1110/Leetcode/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/DP1110/Leetcode/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 ## Prefix Sum
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/DP1110/Leetcode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/DP1110/Leetcode/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/DP1110/Leetcode/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 ## Breadth-First Search
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0210-course-schedule-ii](https://github.com/DP1110/Leetcode/tree/main/0210-course-schedule-ii/) | Medium |
 | [0226-invert-binary-tree](https://github.com/DP1110/Leetcode/tree/main/0226-invert-binary-tree/) | Easy |
 | [0399-evaluate-division](https://github.com/DP1110/Leetcode/tree/main/0399-evaluate-division/) | Medium |
 | [1096-brace-expansion-ii](https://github.com/DP1110/Leetcode/tree/main/1096-brace-expansion-ii/) | Hard |
 ## Topological Sort
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0210-course-schedule-ii](https://github.com/DP1110/Leetcode/tree/main/0210-course-schedule-ii/) | Medium |
 ## Tree
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/DP1110/Leetcode/tree/main/0222-count-complete-tree-nodes/) | Medium |
 | [0226-invert-binary-tree](https://github.com/DP1110/Leetcode/tree/main/0226-invert-binary-tree/) | Easy |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/DP1110/Leetcode/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 ## Binary Tree
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/DP1110/Leetcode/tree/main/0222-count-complete-tree-nodes/) | Medium |
 | [0226-invert-binary-tree](https://github.com/DP1110/Leetcode/tree/main/0226-invert-binary-tree/) | Easy |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/DP1110/Leetcode/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 ## Stack
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0225-implement-stack-using-queues](https://github.com/DP1110/Leetcode/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0227-basic-calculator-ii](https://github.com/DP1110/Leetcode/tree/main/0227-basic-calculator-ii/) | Medium |
 | [0385-mini-parser](https://github.com/DP1110/Leetcode/tree/main/0385-mini-parser/) | Medium |
@@ -351,87 +351,87 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/DP1110/Leetcode/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/DP1110/Leetcode/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 ## Queue
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0225-implement-stack-using-queues](https://github.com/DP1110/Leetcode/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/DP1110/Leetcode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 ## Matrix
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0212-word-search-ii](https://github.com/DP1110/Leetcode/tree/main/0212-word-search-ii/) | Hard |
 | [0835-image-overlap](https://github.com/DP1110/Leetcode/tree/main/0835-image-overlap/) | Medium |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/DP1110/Leetcode/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 ## Sweep Line
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0218-the-skyline-problem](https://github.com/DP1110/Leetcode/tree/main/0218-the-skyline-problem/) | Hard |
 | [0391-perfect-rectangle](https://github.com/DP1110/Leetcode/tree/main/0391-perfect-rectangle/) | Hard |
 ## Two Pointers
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0392-is-subsequence](https://github.com/DP1110/Leetcode/tree/main/0392-is-subsequence/) | Easy |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/DP1110/Leetcode/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 ## Backtracking
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0212-word-search-ii](https://github.com/DP1110/Leetcode/tree/main/0212-word-search-ii/) | Hard |
 | [0216-combination-sum-iii](https://github.com/DP1110/Leetcode/tree/main/0216-combination-sum-iii/) | Medium |
 | [1096-brace-expansion-ii](https://github.com/DP1110/Leetcode/tree/main/1096-brace-expansion-ii/) | Hard |
 ## Binary Indexed Tree
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0218-the-skyline-problem](https://github.com/DP1110/Leetcode/tree/main/0218-the-skyline-problem/) | Hard |
 ## Segment Tree
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0218-the-skyline-problem](https://github.com/DP1110/Leetcode/tree/main/0218-the-skyline-problem/) | Hard |
 | [3525-find-x-value-of-array-ii](https://github.com/DP1110/Leetcode/tree/main/3525-find-x-value-of-array-ii/) | Hard |
 ## Ordered Set
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0218-the-skyline-problem](https://github.com/DP1110/Leetcode/tree/main/0218-the-skyline-problem/) | Hard |
 | [0220-contains-duplicate-iii](https://github.com/DP1110/Leetcode/tree/main/0220-contains-duplicate-iii/) | Hard |
 ## Bucket Sort
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0220-contains-duplicate-iii](https://github.com/DP1110/Leetcode/tree/main/0220-contains-duplicate-iii/) | Hard |
 ## Combinatorics
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/DP1110/Leetcode/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/DP1110/Leetcode/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
 ## Boyer–Moore Majority Vote Algorithm
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0229-majority-element-ii](https://github.com/DP1110/Leetcode/tree/main/0229-majority-element-ii/) | Medium |
 ## Simulation
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [3498-reverse-degree-of-a-string](https://github.com/DP1110/Leetcode/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 ## Bracket Sequences
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/DP1110/Leetcode/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/DP1110/Leetcode/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/DP1110/Leetcode/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 ## Memoization
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0397-integer-replacement](https://github.com/DP1110/Leetcode/tree/main/0397-integer-replacement/) | Medium |
 ## Union-Find
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0399-evaluate-division](https://github.com/DP1110/Leetcode/tree/main/0399-evaluate-division/) | Medium |
 ## Shortest Path
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0399-evaluate-division](https://github.com/DP1110/Leetcode/tree/main/0399-evaluate-division/) | Medium |
 ## Bellman–Ford Algorithm
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0399-evaluate-division](https://github.com/DP1110/Leetcode/tree/main/0399-evaluate-division/) | Medium |
 ## Floyd–Warshall Algorithm
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0399-evaluate-division](https://github.com/DP1110/Leetcode/tree/main/0399-evaluate-division/) | Medium |
 <!---LeetCode Topics End-->
