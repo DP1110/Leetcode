@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/smallest-palindromic-rearrangement-ii">3518. Smallest Palindromic Rearrangement II</a></h2><h3>Hard</h3><hr><p data-end="332" data-start="99">You are given a <strong><span data-keyword="palindrome-string">palindromic</span></strong> string <code>s</code> and an integer <code>k</code>.</p>
+<h2><a href="https://leetcode.com/problems/smallest-palindromic-rearrangement-ii">3813. Smallest Palindromic Rearrangement II</a></h2><h3>Hard</h3><hr><p data-end="332" data-start="99">You are given a <strong><span data-keyword="palindrome-string">palindromic</span></strong> string <code>s</code> and an integer <code>k</code>.</p>
 
 <p>Return the <strong>k-th</strong> <strong><span data-keyword="lexicographically-smaller-string">lexicographically smallest</span></strong> palindromic <span data-keyword="permutation-string">permutation</span> of <code>s</code>. If there are fewer than <code>k</code> distinct palindromic permutations, return an empty string.</p>
 
