@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0393-utf-8-validation](https://github.com/DP1110/Leetcode/tree/main/0393-utf-8-validation/) | Medium |
 | [0396-rotate-function](https://github.com/DP1110/Leetcode/tree/main/0396-rotate-function/) | Medium |
 | [0399-evaluate-division](https://github.com/DP1110/Leetcode/tree/main/0399-evaluate-division/) | Medium |
+| [0403-frog-jump](https://github.com/DP1110/Leetcode/tree/master/0403-frog-jump) |
 | [0835-image-overlap](https://github.com/DP1110/Leetcode/tree/main/0835-image-overlap/) | Medium |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/DP1110/Leetcode/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/DP1110/Leetcode/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
@@ -240,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/DP1110/Leetcode/tree/main/0392-is-subsequence/) | Easy |
 | [0396-rotate-function](https://github.com/DP1110/Leetcode/tree/main/0396-rotate-function/) | Medium |
 | [0397-integer-replacement](https://github.com/DP1110/Leetcode/tree/main/0397-integer-replacement/) | Medium |
+| [0403-frog-jump](https://github.com/DP1110/Leetcode/tree/master/0403-frog-jump) |
 | [0940-distinct-subsequences-ii](https://github.com/DP1110/Leetcode/tree/main/0940-distinct-subsequences-ii/) | Hard |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/DP1110/Leetcode/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/DP1110/Leetcode/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
