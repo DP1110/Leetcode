@@ -261,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/DP1110/Leetcode/tree/main/0389-find-the-difference/) | Easy |
 | [0393-utf-8-validation](https://github.com/DP1110/Leetcode/tree/main/0393-utf-8-validation/) | Medium |
 | [0397-integer-replacement](https://github.com/DP1110/Leetcode/tree/main/0397-integer-replacement/) | Medium |
+| [0401-binary-watch](https://github.com/DP1110/Leetcode/tree/main/0401-binary-watch/) | Easy |
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -378,6 +379,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0212-word-search-ii](https://github.com/DP1110/Leetcode/tree/main/0212-word-search-ii/) | Hard |
 | [0216-combination-sum-iii](https://github.com/DP1110/Leetcode/tree/main/0216-combination-sum-iii/) | Medium |
+| [0401-binary-watch](https://github.com/DP1110/Leetcode/tree/main/0401-binary-watch/) | Easy |
 | [1096-brace-expansion-ii](https://github.com/DP1110/Leetcode/tree/main/1096-brace-expansion-ii/) | Hard |
 ## Binary Indexed Tree
 | Problem Name | Difficulty |
