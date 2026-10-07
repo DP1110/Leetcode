@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0211-design-add-and-search-words-data-structure](https://github.com/DP1110/Leetcode/tree/main/0211-design-add-and-search-words-data-structure/) | Medium |
 | [0212-word-search-ii](https://github.com/DP1110/Leetcode/tree/main/0212-word-search-ii/) | Hard |
 | [0227-basic-calculator-ii](https://github.com/DP1110/Leetcode/tree/main/0227-basic-calculator-ii/) | Medium |
+| [0301-remove-invalid-parentheses](https://github.com/DP1110/Leetcode/tree/master/0301-remove-invalid-parentheses) |
 | [0332-reconstruct-itinerary](https://github.com/DP1110/Leetcode/tree/master/0332-reconstruct-itinerary) |
 | [0336-palindrome-pairs](https://github.com/DP1110/Leetcode/tree/master/0336-palindrome-pairs) |
 | [0383-ransom-note](https://github.com/DP1110/Leetcode/tree/main/0383-ransom-note/) | Easy |
@@ -338,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0210-course-schedule-ii](https://github.com/DP1110/Leetcode/tree/main/0210-course-schedule-ii/) | Medium |
 | [0226-invert-binary-tree](https://github.com/DP1110/Leetcode/tree/main/0226-invert-binary-tree/) | Easy |
+| [0301-remove-invalid-parentheses](https://github.com/DP1110/Leetcode/tree/master/0301-remove-invalid-parentheses) |
 | [0399-evaluate-division](https://github.com/DP1110/Leetcode/tree/main/0399-evaluate-division/) | Medium |
 | [1096-brace-expansion-ii](https://github.com/DP1110/Leetcode/tree/main/1096-brace-expansion-ii/) | Hard |
 ## Topological Sort
@@ -401,6 +403,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/DP1110/Leetcode/tree/master/0022-generate-parentheses) |
 | [0212-word-search-ii](https://github.com/DP1110/Leetcode/tree/main/0212-word-search-ii/) | Hard |
 | [0216-combination-sum-iii](https://github.com/DP1110/Leetcode/tree/main/0216-combination-sum-iii/) | Medium |
+| [0301-remove-invalid-parentheses](https://github.com/DP1110/Leetcode/tree/master/0301-remove-invalid-parentheses) |
 | [0401-binary-watch](https://github.com/DP1110/Leetcode/tree/main/0401-binary-watch/) | Easy |
 | [1096-brace-expansion-ii](https://github.com/DP1110/Leetcode/tree/main/1096-brace-expansion-ii/) | Hard |
 ## Binary Indexed Tree
