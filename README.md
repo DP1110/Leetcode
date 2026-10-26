@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3525-find-x-value-of-array-ii](https://github.com/DP1110/Leetcode/tree/main/3525-find-x-value-of-array-ii/) | Hard |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/DP1110/Leetcode/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/DP1110/Leetcode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/DP1110/Leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/DP1110/Leetcode/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/DP1110/Leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3886-sum-of-sortable-integers](https://github.com/DP1110/Leetcode/tree/master/3886-sum-of-sortable-integers) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0399-evaluate-division](https://github.com/DP1110/Leetcode/tree/main/0399-evaluate-division/) | Medium |
 | [1254-number-of-closed-islands](https://github.com/DP1110/Leetcode/tree/master/1254-number-of-closed-islands) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/DP1110/Leetcode/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/DP1110/Leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Graph Theory
 |  |
 | ------- |
@@ -388,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0399-evaluate-division](https://github.com/DP1110/Leetcode/tree/main/0399-evaluate-division/) | Medium |
 | [1096-brace-expansion-ii](https://github.com/DP1110/Leetcode/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1254-number-of-closed-islands](https://github.com/DP1110/Leetcode/tree/master/1254-number-of-closed-islands) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/DP1110/Leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Topological Sort
 |  |
 | ------- |
@@ -438,6 +441,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0835-image-overlap](https://github.com/DP1110/Leetcode/tree/main/0835-image-overlap/) | Medium |
 | [1254-number-of-closed-islands](https://github.com/DP1110/Leetcode/tree/master/1254-number-of-closed-islands) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/DP1110/Leetcode/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/DP1110/Leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Sweep Line
 |  |
 | ------- |
@@ -519,6 +523,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0399-evaluate-division](https://github.com/DP1110/Leetcode/tree/main/0399-evaluate-division/) | Medium |
 | [1254-number-of-closed-islands](https://github.com/DP1110/Leetcode/tree/master/1254-number-of-closed-islands) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/DP1110/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/DP1110/Leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Shortest Path
 |  |
 | ------- |
