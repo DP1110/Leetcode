@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0835-image-overlap](https://github.com/DP1110/Leetcode/tree/main/0835-image-overlap/) | Medium |
 | [1254-number-of-closed-islands](https://github.com/DP1110/Leetcode/tree/master/1254-number-of-closed-islands) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/DP1110/Leetcode/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/DP1110/Leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/DP1110/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/DP1110/Leetcode/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/DP1110/Leetcode/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/DP1110/Leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0836-rectangle-overlap](https://github.com/DP1110/Leetcode/tree/main/0836-rectangle-overlap/) | Easy |
 | [1401-circle-and-rectangle-overlapping](https://github.com/DP1110/Leetcode/tree/main/1401-circle-and-rectangle-overlapping/) | Medium |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/DP1110/Leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/DP1110/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/DP1110/Leetcode/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [2409-count-days-spent-together](https://github.com/DP1110/Leetcode/tree/master/2409-count-days-spent-together) |
@@ -311,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/DP1110/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0940-distinct-subsequences-ii](https://github.com/DP1110/Leetcode/tree/main/0940-distinct-subsequences-ii/) | Hard |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/DP1110/Leetcode/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/DP1110/Leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/DP1110/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/DP1110/Leetcode/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/DP1110/Leetcode/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
@@ -404,6 +407,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/DP1110/Leetcode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/DP1110/Leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/DP1110/Leetcode/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/DP1110/Leetcode/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [3364-minimum-positive-sum-subarray](https://github.com/DP1110/Leetcode/tree/master/3364-minimum-positive-sum-subarray) |
